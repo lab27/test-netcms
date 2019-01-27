@@ -16,7 +16,7 @@
 
 <style>
 html {
-  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI",
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
   word-spacing: 1px;
@@ -27,11 +27,20 @@ html {
   box-sizing: border-box;
 }
 
+body {
+  padding: 1rem;
+}
+
 *,
 *:before,
 *:after {
   box-sizing: border-box;
   margin: 0;
+}
+
+nav {
+  margin-bottom: 1rem;
+  background-color: #f9f9f9;
 }
 
 .button--green {
@@ -62,4 +71,5 @@ html {
   color: #fff;
   background-color: #35495e;
 }
+
 </style>

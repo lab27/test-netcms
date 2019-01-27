@@ -10,7 +10,7 @@ module.exports = {
     htmlAttrs: {
       lang: 'en',
     },
-    title: "My Website",
+    title: "Nick is testing stuff",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
@@ -25,7 +25,7 @@ module.exports = {
   /*
   ** Customize the progress bar color
   */
-  loading: { color: "#FFBB43" },
+  loading: { color: "salmon" },
   /*
   ** Build configuration
   */
