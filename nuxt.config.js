@@ -26,6 +26,9 @@ module.exports = {
   ** Customize the progress bar color
   */
   loading: { color: "salmon" },
+  router: {
+    base: '/test-netcms/'
+  }
   /*
   ** Build configuration
   */
