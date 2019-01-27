@@ -28,7 +28,7 @@ module.exports = {
   loading: { color: "salmon" },
   router: {
     base: '/test-netcms/'
-  }
+  },
   /*
   ** Build configuration
   */
